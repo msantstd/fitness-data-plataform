@@ -1,4 +1,4 @@
-package dev.studiofranchini.StudioFranchini;
+package dev.studiofranchini.StudioFranchini.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;        //(Estes impots são das annotations feitas abaixo usando @ )
 import org.springframework.web.bind.annotation.RequestMapping;
