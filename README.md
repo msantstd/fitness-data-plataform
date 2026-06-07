@@ -1,0 +1,1 @@
+Desenvolvi esta plataforma de ingestão e processamento de dados em Java/Spring Boot, integrando APIs REST, executando pipelines ETL em batch, com regra de negócio e persistência de dados em PostgreSQL, fornecendo dados para relatórios analíticos, BI e dashboards

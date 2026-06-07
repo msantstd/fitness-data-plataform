@@ -1,7 +1,7 @@
 package dev.studiofranchini.StudioFranchini;
 
 import org.springframework.web.bind.annotation.GetMapping;        //(Estes impots são das annotations feitas abaixo usando @ )
-import org.springframework.web.bind.annotation.RequestMapping;  /É como
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 
