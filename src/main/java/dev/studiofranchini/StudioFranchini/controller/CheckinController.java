@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
         @GetMapping //( Da um GET na rota feita pela requisição RequestMapping)
         public String buscar() {      //(retorna uma informação no formado String)
-            return "1° rota ( /checkins ) esta funcionando"; //(Este Retorno é o teste, no Postman ou direto no navegador
+            return "1° rota ( /checkins ) Está funcionando corretamente!! "; //(Este Retorno é o teste, no Postman ou direto no navegador
                                                         // no "http://localhost:8080/checkins"
         }
     }
