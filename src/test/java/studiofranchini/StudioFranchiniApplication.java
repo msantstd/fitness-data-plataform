@@ -1,4 +1,4 @@
-package dev.studiofranchini.StudioFranchini;
+package studiofranchini;
 
 public class StudioFranchiniApplication {
 }
