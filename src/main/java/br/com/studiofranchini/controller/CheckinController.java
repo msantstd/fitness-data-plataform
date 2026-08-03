@@ -1,4 +1,4 @@
-package studiofranchini.controller;
+package br.com.studiofranchini.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;        //(Estes impots são das annotations feitas abaixo usando @ )
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 
-    @RestController //( Quer dizer que esta classe recebe requisições HTTP e retorna respostas.)
+    @RestController //( Quer dizer que esta classe recebe requisições HTTP e retorna respostas, no caso esta retornando a string "1° rota etc...".)
     @RequestMapping (value = "/checkins") //(Cria a rota desejada, neste caso foi a /checkins)
     public class CheckinController { //(diz que a class é pública e pode ser acessada por qualquer outra classe)
 
