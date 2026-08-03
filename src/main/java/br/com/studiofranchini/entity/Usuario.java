@@ -1,5 +1,6 @@
-package dev.studiofranchini.StudioFranchini.entity;
+package br.com.studiofranchini.entity;
 
+import br.com.studiofranchini.enums.Role;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
